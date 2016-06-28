@@ -1,0 +1,188 @@
+<NotepadPlus>
+    <UserLang name="txt" ext="txt" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="yes" allowFoldOfComments="yes" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments">00-- 01 02 03/* 04*/</Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1">+ - * / % = &amp; | ^ = &gt; &lt; &gt;= &lt;= &lt;&gt; != !&lt; !&gt; += -= *= /= %= &amp;= ^= |= :: ~ ; , ( )</Keywords>
+            <Keywords name="Operators2">all and any between exists in like not or some except intersect union</Keywords>
+            <Keywords name="Folders in code1, open">begin if case &apos;.IF&apos;</Keywords>
+            <Keywords name="Folders in code1, middle">&apos;.ENDIF&apos;</Keywords>
+            <Keywords name="Folders in code1, close">&apos;end if&apos;&apos;</Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close">&apos;end if&apos;&apos;</Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">ACCESS&#x000D;&#x000A;ACCOUNT&#x000D;&#x000A;ACTIVATE&#x000D;&#x000A;ADD&#x000D;&#x000A;ADMIN&#x000D;&#x000A;ADVISE&#x000D;&#x000A;AFTER&#x000D;&#x000A;ALLOCATE&#x000D;&#x000A;ALL_ROWS&#x000D;&#x000A;ALTER&#x000D;&#x000A;ANALYZE&#x000D;&#x000A;AND&#x000D;&#x000A;ANY&#x000D;&#x000A;ANYDATA&#x000D;&#x000A;ANYDATASET&#x000D;&#x000A;ANYTYPE&#x000D;&#x000A;ARCHIVELOG&#x000D;&#x000A;ARRAY&#x000D;&#x000A;AS&#x000D;&#x000A;ASC&#x000D;&#x000A;AT&#x000D;&#x000A;AUDIT&#x000D;&#x000A;AUTHENTICATED&#x000D;&#x000A;AUTHID&#x000D;&#x000A;AUTHORIZATION&#x000D;&#x000A;AUTOEXTEND&#x000D;&#x000A;AUTOMATIC&#x000D;&#x000A;BACKUP&#x000D;&#x000A;BECOME&#x000D;&#x000A;BEFORE&#x000D;&#x000A;BEGIN&#x000D;&#x000A;BETWEEN&#x000D;&#x000A;BFILE&#x000D;&#x000A;BINARY_INTEGER&#x000D;&#x000A;BITMAP&#x000D;&#x000A;BLOBLOCK&#x000D;&#x000A;BODY&#x000D;&#x000A;BOOLEAN&#x000D;&#x000A;BULK&#x000D;&#x000A;BY&#x000D;&#x000A;CACHE_INSTANCES&#x000D;&#x000A;CANCEL&#x000D;&#x000A;CASCADE&#x000D;&#x000A;CASE&#x000D;&#x000A;CFILE&#x000D;&#x000A;CHAINED&#x000D;&#x000A;CHANGE&#x000D;&#x000A;CHAR&#x000D;&#x000A;CHARACTER&#x000D;&#x000A;CHAR_BASE&#x000D;&#x000A;CHAR_CS&#x000D;&#x000A;CHECK&#x000D;&#x000A;CHECKPOINT&#x000D;&#x000A;CHOOSE&#x000D;&#x000A;CHUNK&#x000D;&#x000A;CLEAR&#x000D;&#x000A;CLOB&#x000D;&#x000A;CLONE&#x000D;&#x000A;CLOSE&#x000D;&#x000A;CLOSE_CACHED_OPEN_CURSORS&#x000D;&#x000A;CLUSTER&#x000D;&#x000A;COLLECT&#x000D;&#x000A;COLUMNS&#x000D;&#x000A;COMMENT&#x000D;&#x000A;COMMIT&#x000D;&#x000A;COMMITTED&#x000D;&#x000A;COMMIT_CM&#x000D;&#x000A;COMPATIBILITY&#x000D;&#x000A;COMPILE&#x000D;&#x000A;COMPLETE&#x000D;&#x000A;COMPOSITE_LIMIT&#x000D;&#x000A;COMPRESS&#x000D;&#x000A;COMPUTE&#x000D;&#x000A;CONNECT&#x000D;&#x000A;CONNECT_TIME&#x000D;&#x000A;CONSTANT&#x000D;&#x000A;CONSTRAINTS&#x000D;&#x000A;CONTENTS&#x000D;&#x000A;CONTINUE&#x000D;&#x000A;CONTROLFILE&#x000D;&#x000A;COST&#x000D;&#x000A;CPU_PER_CALL&#x000D;&#x000A;CPU_PER_SESSION&#x000D;&#x000A;CREATE&#x000D;&#x000A;CUBE&#x000D;&#x000A;CURRENT&#x000D;&#x000A;CURRENT_SCHEMA&#x000D;&#x000A;CURRENT_USER&#x000D;&#x000A;CURRVAL&#x000D;&#x000A;CURSOR&#x000D;&#x000A;CYCLE&#x000D;&#x000A;DANGLING&#x000D;&#x000A;DATABASE&#x000D;&#x000A;DATAFILES&#x000D;&#x000A;DATAOBJNO&#x000D;&#x000A;DATE&#x000D;&#x000A;DAY&#x000D;&#x000A;DBA&#x000D;&#x000A;DBHIGH&#x000D;&#x000A;DBLOW&#x000D;&#x000A;DBMAC&#x000D;&#x000A;DBURITYPE&#x000D;&#x000A;DEALLOCATE&#x000D;&#x000A;DEBUG&#x000D;&#x000A;DECIMAL&#x000D;&#x000A;DECLARE&#x000D;&#x000A;DEFAULT&#x000D;&#x000A;DEFERRABLE&#x000D;&#x000A;DEFERREDEGREE&#x000D;&#x000A;DELETE&#x000D;&#x000A;DESC&#x000D;&#x000A;DIRECTORY&#x000D;&#x000A;DISABLE&#x000D;&#x000A;DISCONNECT&#x000D;&#x000A;DISMOUNT&#x000D;&#x000A;DISTINCT&#x000D;&#x000A;DISTRIBUTEDML&#x000D;&#x000A;DOUBLE&#x000D;&#x000A;DROP&#x000D;&#x000A;EACH&#x000D;&#x000A;ELSE&#x000D;&#x000A;ELSIF&#x000D;&#x000A;ENABLEND&#x000D;&#x000A;ENFORCENTRY&#x000D;&#x000A;ESCAPEXCEPT&#x000D;&#x000A;EXCEPTION&#x000D;&#x000A;EXCEPTIONS&#x000D;&#x000A;EXCHANGEXCLUDING&#x000D;&#x000A;EXCLUSIVE&#x000D;&#x000A;EXECUTE&#x000D;&#x000A;EXISTS&#x000D;&#x000A;EXIT&#x000D;&#x000A;EXPIREXPLAIN&#x000D;&#x000A;EXTENDS&#x000D;&#x000A;EXTENTS&#x000D;&#x000A;EXTERNALLY&#x000D;&#x000A;FAILED_LOGIN_ATTEMPTS&#x000D;&#x000A;FALSE&#x000D;&#x000A;FAST&#x000D;&#x000A;FETCH&#x000D;&#x000A;FILE&#x000D;&#x000A;FIRST_ROWS&#x000D;&#x000A;FLAGGER&#x000D;&#x000A;FLOAT&#x000D;&#x000A;FLOB&#x000D;&#x000A;FLUSH&#x000D;&#x000A;FOR&#x000D;&#x000A;FORALL&#x000D;&#x000A;FORCE&#x000D;&#x000A;FOREIGN&#x000D;&#x000A;FREELISTS&#x000D;&#x000A;FROM&#x000D;&#x000A;FULL&#x000D;&#x000A;FUNCTION&#x000D;&#x000A;GETBND&#x000D;&#x000A;GLB&#x000D;&#x000A;GLOBALLY&#x000D;&#x000A;GLOBAL_NAME&#x000D;&#x000A;GOTO&#x000D;&#x000A;GRANT&#x000D;&#x000A;GREATEST_LB&#x000D;&#x000A;GROUP&#x000D;&#x000A;GROUPS&#x000D;&#x000A;HASHKEYS&#x000D;&#x000A;HAVING&#x000D;&#x000A;HEADER&#x000D;&#x000A;HEAP&#x000D;&#x000A;HOUR&#x000D;&#x000A;HTTPURITYPE&#x000D;&#x000A;IDENTIFIED&#x000D;&#x000A;IDGENERATORS&#x000D;&#x000A;IDLE_TIME&#x000D;&#x000A;IF&#x000D;&#x000A;IMMEDIATE&#x000D;&#x000A;IN&#x000D;&#x000A;INCLUDING&#x000D;&#x000A;INCREMENT&#x000D;&#x000A;INDEX&#x000D;&#x000A;INDEXED&#x000D;&#x000A;INDEXES&#x000D;&#x000A;INDICATOR&#x000D;&#x000A;IND_PARTITION&#x000D;&#x000A;INITIALLY&#x000D;&#x000A;INITRANS&#x000D;&#x000A;INSERT&#x000D;&#x000A;INSTANCES&#x000D;&#x000A;INSTEAD&#x000D;&#x000A;INTEGER&#x000D;&#x000A;INTERFACE&#x000D;&#x000A;INTERMEDIATE&#x000D;&#x000A;INTERSECT&#x000D;&#x000A;INTERVAL&#x000D;&#x000A;INTO&#x000D;&#x000A;IS&#x000D;&#x000A;ISDANGLING&#x000D;&#x000A;ISNOTDANGLING&#x000D;&#x000A;ISNOTNULL&#x000D;&#x000A;ISNULL&#x000D;&#x000A;ISOLATION&#x000D;&#x000A;ISOLATION_LEVEL&#x000D;&#x000A;JAVA&#x000D;&#x000A;KEEP&#x000D;&#x000A;KEY&#x000D;&#x000A;KILLABELAYER&#x000D;&#x000A;LEAST_UB&#x000D;&#x000A;LESS&#x000D;&#x000A;LEVEL&#x000D;&#x000A;LIBRARY&#x000D;&#x000A;LIKE&#x000D;&#x000A;LIMITED&#x000D;&#x000A;LINK&#x000D;&#x000A;LIST&#x000D;&#x000A;LOB&#x000D;&#x000A;LOCALOCK&#x000D;&#x000A;LOCALTIME&#x000D;&#x000A;LOCKED&#x000D;&#x000A;MAXARCHLOGS&#x000D;&#x000A;MAXDATAFILES&#x000D;&#x000A;MAXEXTENTS&#x000D;&#x000A;MAXINSTANCES&#x000D;&#x000A;MAXLOGFILES&#x000D;&#x000A;MAXLOGHISTORY&#x000D;&#x000A;MAXLOGMEMBERS&#x000D;&#x000A;MAXSIZE&#x000D;&#x000A;MAXTRANS&#x000D;&#x000A;MAXVALUE&#x000D;&#x000A;MEMBER&#x000D;&#x000A;MANAGE&#x000D;&#x000A;MASTER&#x000D;&#x000A;LUB&#x000D;&#x000A;LOGFILE&#x000D;&#x000A;LOGGING&#x000D;&#x000A;LOGICAL_READS_PER_CALLOGICAL_READS_PER_SESSION&#x000D;&#x000A;LONG&#x000D;&#x000A;LOOP&#x000D;&#x000A;NEXTVAL&#x000D;&#x000A;NCLOB&#x000D;&#x000A;NEEDED&#x000D;&#x000A;NESTED&#x000D;&#x000A;NETWORK&#x000D;&#x000A;NEW&#x000D;&#x000A;MINEXTENTS&#x000D;&#x000A;MINIMUMINUS&#x000D;&#x000A;MINUTE&#x000D;&#x000A;MINVALUE&#x000D;&#x000A;MLSLABEL&#x000D;&#x000A;MLS_LABEL_FORMAT&#x000D;&#x000A;MODE&#x000D;&#x000A;MODIFY&#x000D;&#x000A;MONTH&#x000D;&#x000A;MOUNT&#x000D;&#x000A;MOVE&#x000D;&#x000A;MTS_DISPATCHERS&#x000D;&#x000A;MULTISET&#x000D;&#x000A;NATIONAL&#x000D;&#x000A;NATURALNCHAR&#x000D;&#x000A;NCHAR_CS&#x000D;&#x000A;NVARCHAR2&#x000D;&#x000A;NUMBER&#x000D;&#x000A;NUMBER_BASE&#x000D;&#x000A;NUMERIC&#x000D;&#x000A;NULL&#x000D;&#x000A;NULLFN&#x000D;&#x000A;NOARCHIVELOG&#x000D;&#x000A;NOAUDIT&#x000D;&#x000A;NOCACHE&#x000D;&#x000A;NOCOMPRESS&#x000D;&#x000A;NOCOPY&#x000D;&#x000A;NOCYCLE&#x000D;&#x000A;NOFORCE&#x000D;&#x000A;NOLOGGING&#x000D;&#x000A;NOMAXVALUE&#x000D;&#x000A;NOMINVALUE&#x000D;&#x000A;NONE&#x000D;&#x000A;NOORDER&#x000D;&#x000A;NOOVERRIDE&#x000D;&#x000A;NOPARALLEL&#x000D;&#x000A;NOREVERSE&#x000D;&#x000A;NORMAL&#x000D;&#x000A;NOSORT&#x000D;&#x000A;NOT&#x000D;&#x000A;NOTHING&#x000D;&#x000A;NOT_LIKE&#x000D;&#x000A;NOWAIT&#x000D;&#x000A;OBJECT&#x000D;&#x000A;OBJNO_REUSE&#x000D;&#x000A;OCIROWID&#x000D;&#x000A;OF&#x000D;&#x000A;OFFLINE&#x000D;&#x000A;OIDINDEX&#x000D;&#x000A;OLD&#x000D;&#x000A;ON&#x000D;&#x000A;ONLINE&#x000D;&#x000A;ONLY&#x000D;&#x000A;OPAQUE&#x000D;&#x000A;OPCODE&#x000D;&#x000A;OPEN&#x000D;&#x000A;OPERATOR&#x000D;&#x000A;OPTIMAL&#x000D;&#x000A;OPTIMIZER_GOAL&#x000D;&#x000A;OPTION&#x000D;&#x000A;OR&#x000D;&#x000A;ORDAUDIO&#x000D;&#x000A;ORDDOC&#x000D;&#x000A;ORDER&#x000D;&#x000A;ORDIMAGE&#x000D;&#x000A;ORDIMAGESIGNATURE&#x000D;&#x000A;ORDSYS&#x000D;&#x000A;ORDVIDEO&#x000D;&#x000A;ORGANIZATION&#x000D;&#x000A;OSLABEL&#x000D;&#x000A;OTHERS&#x000D;&#x000A;OUT&#x000D;&#x000A;OVERFLOWN&#x000D;&#x000A;PACKAGE&#x000D;&#x000A;PARALLEL&#x000D;&#x000A;PARTITION&#x000D;&#x000A;PASSWORD_GRACE_TIME&#x000D;&#x000A;PASSWORD_LIFE_TIME&#x000D;&#x000A;PASSWORD_LOCK_TIME&#x000D;&#x000A;PASSWORD_REUSE_MAX&#x000D;&#x000A;PASSWORD_REUSE_TIME&#x000D;&#x000A;PASSWORD_VERIFY_FUNCTION&#x000D;&#x000A;PCTFREE&#x000D;&#x000A;PCTINCREASE&#x000D;&#x000A;PCTTHRESHOLD&#x000D;&#x000A;PCTUSED&#x000D;&#x000A;PCTVERSION&#x000D;&#x000A;PERCENT&#x000D;&#x000A;PERMANENT&#x000D;&#x000A;PLAN&#x000D;&#x000A;PLSQL_DEBUG&#x000D;&#x000A;PLS_INTEGER&#x000D;&#x000A;POSITIVEN&#x000D;&#x000A;POST_TRANSACTION&#x000D;&#x000A;PRAGMA&#x000D;&#x000A;PRECISION&#x000D;&#x000A;PRESERVE&#x000D;&#x000A;PRIMARY&#x000D;&#x000A;PRIOR&#x000D;&#x000A;PRIVATE&#x000D;&#x000A;PRIVATE_SGA&#x000D;&#x000A;PRIVILEGES&#x000D;&#x000A;PROCEDURE&#x000D;&#x000A;PROFILE&#x000D;&#x000A;PUBLIC&#x000D;&#x000A;PURGE&#x000D;&#x000A;QUEUE&#x000D;&#x000A;QUOTA&#x000D;&#x000A;RAISE&#x000D;&#x000A;RAISE_APPLICATION_ERROR&#x000D;&#x000A;RANGE&#x000D;&#x000A;RAW&#x000D;&#x000A;RELEASE&#x000D;&#x000A;REM&#x000D;&#x000A;RENAME&#x000D;&#x000A;RBA&#x000D;&#x000A;READUP&#x000D;&#x000A;REAL&#x000D;&#x000A;REBUILD&#x000D;&#x000A;RECORD&#x000D;&#x000A;RECOVERABLE&#x000D;&#x000A;RECOVERY&#x000D;&#x000A;REFERENCES&#x000D;&#x000A;REFERENCING&#x000D;&#x000A;REFRESH&#x000D;&#x000A;RESETLOGS&#x000D;&#x000A;RESIZE&#x000D;&#x000A;RESOURCE&#x000D;&#x000A;RESTRICTED&#x000D;&#x000A;RETURN&#x000D;&#x000A;RETURNING&#x000D;&#x000A;REUSE&#x000D;&#x000A;REVERSE&#x000D;&#x000A;REVOKE&#x000D;&#x000A;ROLES&#x000D;&#x000A;ROLLBACK&#x000D;&#x000A;ROLLBACK_NR&#x000D;&#x000A;ROLLBACK_SV&#x000D;&#x000A;ROLLUP&#x000D;&#x000A;ROW&#x000D;&#x000A;ROWID&#x000D;&#x000A;ROWLABEL&#x000D;&#x000A;ROWNUM&#x000D;&#x000A;ROWS&#x000D;&#x000A;ROWTYPE&#x000D;&#x000A;RULE&#x000D;&#x000A;SAMPLE&#x000D;&#x000A;SAVEPOINT&#x000D;&#x000A;SB4&#x000D;&#x000A;SCAN_INSTANCESCHEMA&#x000D;&#x000A;SCN&#x000D;&#x000A;SCOPE&#x000D;&#x000A;SD_ALL&#x000D;&#x000A;SD_INHIBIT&#x000D;&#x000A;SD_SHOW&#x000D;&#x000A;SECOND&#x000D;&#x000A;SEGMENT&#x000D;&#x000A;SEG_BLOCK&#x000D;&#x000A;SEG_FILE&#x000D;&#x000A;SELECT&#x000D;&#x000A;SEPARATE&#x000D;&#x000A;SEQUENCE&#x000D;&#x000A;SERIALIZABLE&#x000D;&#x000A;SESSIONS_PER_USER&#x000D;&#x000A;SESSIONTIMEZONE&#x000D;&#x000A;SESSION_CACHED_CURSORSET&#x000D;&#x000A;SETBND&#x000D;&#x000A;SET_TRANSACTION_USE&#x000D;&#x000A;SHARE&#x000D;&#x000A;SHARED_POOL&#x000D;&#x000A;SHRINK&#x000D;&#x000A;SPACE&#x000D;&#x000A;SPECIFICATION&#x000D;&#x000A;SPLIT&#x000D;&#x000A;SQLCODE&#x000D;&#x000A;SQLERRM&#x000D;&#x000A;SQL_TRACE&#x000D;&#x000A;SINH&#x000D;&#x000A;SIZE&#x000D;&#x000A;SKIP_UNUSABLE_INDEXESMALLINT&#x000D;&#x000A;SNAPSHOT&#x000D;&#x000A;SOME&#x000D;&#x000A;SORT&#x000D;&#x000A;SUBTYPE&#x000D;&#x000A;SUCCESSFUL&#x000D;&#x000A;STANDBY&#x000D;&#x000A;START&#x000D;&#x000A;STATEMENT_ID&#x000D;&#x000A;STATISTICSTDDEV&#x000D;&#x000A;STOP&#x000D;&#x000A;STORAGE&#x000D;&#x000A;STORE&#x000D;&#x000A;STRUCTURE&#x000D;&#x000A;SWITCH&#x000D;&#x000A;SYNONYM&#x000D;&#x000A;SYS$DSINTERVALSUBTRACT&#x000D;&#x000A;SYS$EXTRACT_FROM&#x000D;&#x000A;SYS$LOB_REPLICATION&#x000D;&#x000A;SYS$STANDARD_CHR&#x000D;&#x000A;SYS$STANDARD_TRANSLATE&#x000D;&#x000A;SYS$STANDARD_TRIM&#x000D;&#x000A;SYS$YMINTERVALSUBTRACT&#x000D;&#x000A;SYSDATE&#x000D;&#x000A;SYSDBA&#x000D;&#x000A;SYSOPER&#x000D;&#x000A;SYSTEM&#x000D;&#x000A;SYSTIMESTAMP&#x000D;&#x000A;SYS_AT_TIME_ZONE&#x000D;&#x000A;SYS_LITERALTODATE&#x000D;&#x000A;SYS_LITERALTODSINTERVAL&#x000D;&#x000A;SYS_LITERALTOTIME&#x000D;&#x000A;SYS_LITERALTOTIMESTAMP&#x000D;&#x000A;SYS_LITERALTOTZTIME&#x000D;&#x000A;SYS_LITERALTOTZTIMESTAMP&#x000D;&#x000A;SYS_LITERALTOYMINTERVAL&#x000D;&#x000A;SYS_OP_ENFORCE_NOT_NULL$&#x000D;&#x000A;SYS_OP_NTCIMG$&#x000D;&#x000A;SYS_OVER_IID&#x000D;&#x000A;SYS_OVER_IIT&#x000D;&#x000A;SYS_OVER__DD&#x000D;&#x000A;SYS_OVER__DI&#x000D;&#x000A;SYS_OVER__ID&#x000D;&#x000A;SYS_OVER__IT&#x000D;&#x000A;SYS_OVER__TI&#x000D;&#x000A;SYS_OVER__TT&#x000D;&#x000A;TABLE&#x000D;&#x000A;TABLESPACE&#x000D;&#x000A;TABLESPACE_NO&#x000D;&#x000A;TABNO&#x000D;&#x000A;TO_TIME&#x000D;&#x000A;TO_LABEL&#x000D;&#x000A;TO_DB_TZ&#x000D;&#x000A;TEMPORARY&#x000D;&#x000A;THAN&#x000D;&#x000A;THEN&#x000D;&#x000A;THREAD&#x000D;&#x000A;TIME&#x000D;&#x000A;TIMESTAMP&#x000D;&#x000A;TIMEZONE_ABBR&#x000D;&#x000A;TIMEZONE_HOUR&#x000D;&#x000A;TIMEZONE_MINUTE&#x000D;&#x000A;TIMEZONE_REGION&#x000D;&#x000A;TO&#x000D;&#x000A;TOPLEVEL&#x000D;&#x000A;TO_LOCAL_TZ&#x000D;&#x000A;TO_TIME_TZ&#x000D;&#x000A;TRACE&#x000D;&#x000A;TRACING&#x000D;&#x000A;TRANSACTION&#x000D;&#x000A;TRANSITIONAL&#x000D;&#x000A;TRUNCATE&#x000D;&#x000A;TX&#x000D;&#x000A;TYPE&#x000D;&#x000A;TRIGGER&#x000D;&#x000A;TRIGGERS&#x000D;&#x000A;TRUE&#x000D;&#x000A;UB2&#x000D;&#x000A;UBA&#x000D;&#x000A;UID&#x000D;&#x000A;UNARCHIVED&#x000D;&#x000A;UNDO&#x000D;&#x000A;UNION&#x000D;&#x000A;UNIQUE&#x000D;&#x000A;UNLIMITED&#x000D;&#x000A;UNLOCK&#x000D;&#x000A;UNRECOVERABLE&#x000D;&#x000A;UNTIL&#x000D;&#x000A;UNUSABLE&#x000D;&#x000A;UNUSED&#x000D;&#x000A;UPDATABLE&#x000D;&#x000A;UPDATE&#x000D;&#x000A;WHEN&#x000D;&#x000A;WHENEVER&#x000D;&#x000A;WHERE&#x000D;&#x000A;WHILE&#x000D;&#x000A;VARYING&#x000D;&#x000A;VIEW&#x000D;&#x000A;VARRAY&#x000D;&#x000A;UROWID&#x000D;&#x000A;USAGE&#x000D;&#x000A;USE&#x000D;&#x000A;USER&#x000D;&#x000A;USING&#x000D;&#x000A;VALIDATE&#x000D;&#x000A;VALIDATION&#x000D;&#x000A;VALUES&#x000D;&#x000A;VARCHAR&#x000D;&#x000A;VARCHAR2&#x000D;&#x000A;WITH&#x000D;&#x000A;WITHOUT&#x000D;&#x000A;WORK&#x000D;&#x000A;WRITE&#x000D;&#x000A;WRITEDOWN&#x000D;&#x000A;WRITEUP&#x000D;&#x000A;XDBURITYPE&#x000D;&#x000A;XID&#x000D;&#x000A;WHEN&#x000D;&#x000A;WHENEVER&#x000D;&#x000A;WHERE&#x000D;&#x000A;WHILE&#x000D;&#x000A;VARYING&#x000D;&#x000A;VIEW&#x000D;&#x000A;VARRAY&#x000D;&#x000A;UROWID&#x000D;&#x000A;USAGE&#x000D;&#x000A;USE&#x000D;&#x000A;USER&#x000D;&#x000A;USING&#x000D;&#x000A;VALIDATE&#x000D;&#x000A;VALIDATION&#x000D;&#x000A;VALUES&#x000D;&#x000A;VARCHAR&#x000D;&#x000A;VARCHAR2&#x000D;&#x000A;WITH&#x000D;&#x000A;WITHOUT&#x000D;&#x000A;WORK&#x000D;&#x000A;WRITE&#x000D;&#x000A;WRITEDOWN&#x000D;&#x000A;WRITEUP&#x000D;&#x000A;XDBURITYPE&#x000D;&#x000A;XID&#x0009;&#x0009;&#x000D;&#x000A;XMLTYPE&#x000D;&#x000A;XOR&#x000D;&#x000A;YEAR&#x000D;&#x000A;ZONE&#x000D;&#x000A;EXEC</Keywords>
+            <Keywords name="Keywords2">DD&#x000D;&#x000A;NE</Keywords>
+            <Keywords name="Keywords3">.GOTO</Keywords>
+            <Keywords name="Keywords4">SHR</Keywords>
+            <Keywords name="Keywords5"></Keywords>
+            <Keywords name="Keywords6"></Keywords>
+            <Keywords name="Keywords7"></Keywords>
+            <Keywords name="Keywords8"></Keywords>
+            <Keywords name="Delimiters">00&apos; 01 02&apos; 03/ 04 05/ 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="FF8040" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="0080FF" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="000080" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="808080" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="000080" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+    <UserLang name="SQL Teste" ext="" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="no" allowFoldOfComments="yes" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments">00 01 02 03/* 04*/</Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1"></Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open"></Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close"></Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1"></Keywords>
+            <Keywords name="Keywords2"></Keywords>
+            <Keywords name="Keywords3"></Keywords>
+            <Keywords name="Keywords4"></Keywords>
+            <Keywords name="Keywords5"></Keywords>
+            <Keywords name="Keywords6"></Keywords>
+            <Keywords name="Keywords7"></Keywords>
+            <Keywords name="Keywords8"></Keywords>
+            <Keywords name="Delimiters">00&apos; 01 02&apos; 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="FF8040" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="0080FF" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="FF00FF" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="8080FF" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+    <UserLang name="JCL" ext="" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="no" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments"></Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1"></Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open"></Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close"></Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">DD</Keywords>
+            <Keywords name="Keywords2"></Keywords>
+            <Keywords name="Keywords3"></Keywords>
+            <Keywords name="Keywords4"></Keywords>
+            <Keywords name="Keywords5"></Keywords>
+            <Keywords name="Keywords6"></Keywords>
+            <Keywords name="Keywords7"></Keywords>
+            <Keywords name="Keywords8"></Keywords>
+            <Keywords name="Delimiters"></Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="0080FF" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
